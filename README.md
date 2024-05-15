@@ -1,7 +1,7 @@
 # SeamCarving
 Content-Aware image resizing program that reduces the dimensions of an image by cutting the least important seams.
 
-# Collaborators:
+## Collaborators:
 Peter Murphy and Krishna Nayar, classmates in my CSC-301 Analysis of Algorithms class
 
 ## Current implementation
