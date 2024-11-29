@@ -39,11 +39,11 @@ Future iterations of this project aim to extend functionality in the following w
 
 1. Horizontal Seam Cutting: Implement seam carving to reduce the image height by identifying and removing horizontal seams.
 2.  User-Defined Inputs:
-  * Allow users to provide custom images for resizing.
-  * Enable users to specify desired dimensions for both width and height.
-3. Enhanced Visualization:
-  * Provide visual representation of seams before removal.
-  * Animate the resizing process for educational purposes.
+    * Allow users to provide custom images for resizing.
+    * Enable users to specify desired dimensions for both width and height.
+3 Enhanced Visualization:
+    * Provide visual representation of seams before removal.
+    * Animate the resizing process for educational purposes.
 
 4. Performance Optimization: Explore parallel processing or GPU acceleration for handling larger images more efficiently.
 
